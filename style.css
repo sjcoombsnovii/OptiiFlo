@@ -408,7 +408,7 @@ img{
 }
 
 .hamburger-button .hamburger-line2 {
-    transform: translate(0px, 15px)rotate(45deg);
+    opacity: 0;
 }
 
 .hamburger-button .hamburger-line3 {
