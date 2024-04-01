@@ -427,10 +427,13 @@ img{
     background-color: var(--light);
     box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
     transition: right 0.3s ease-in-out;
+    pointer-events: none;
 }
 
 .mobile-menu.active {
     right: 0;
+    opacity: 1;
+    pointer-events: fill;
 }
 
 .mobile-menu ul {
