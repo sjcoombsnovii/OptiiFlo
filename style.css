@@ -396,7 +396,7 @@ img{
 
 }
 
-.hamburger-button .hamburger-line {
+.hamburger-button .hamburger-line1 , .hamburger-line2 , .hamburger-line3 {
     width: 30px;
     height: 3px;
     background: #333;
