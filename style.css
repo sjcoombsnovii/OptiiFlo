@@ -237,7 +237,7 @@ img{
 }
 
 .footer ul li a {
-    color: #ccc;
+    color: var(--primary-color);
 }
 
 .footer i { 
