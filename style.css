@@ -36,7 +36,7 @@ img{
 /* Navbar*/
 
 .navbar{
-    background: var(--light);
+    background: var(--blue);
     padding: 20px;
 }
 
@@ -382,6 +382,11 @@ img{
 .bg-black {
     background: #000;
     color: var(--light);
+}
+
+.bg_blue {
+    background: var(--blue);
+    color: var(--navy);
 }
 
 /* hamburger button */
