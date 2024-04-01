@@ -77,7 +77,7 @@ img{
 }
 
 .hero .container {
-    background: url('../Images/Background.svg') no-repeat;
+    background: url('Images/Background.svg') no-repeat;
     background-size: contain;
     background-position: center bottom;
     height: 550px;
