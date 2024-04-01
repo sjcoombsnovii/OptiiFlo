@@ -384,7 +384,7 @@ img{
     color: var(--light);
 }
 
-.bg_blue {
+.bg-blue {
     background: var(--blue);
     color: var(--navy);
 }
