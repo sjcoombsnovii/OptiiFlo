@@ -403,6 +403,18 @@ img{
     margin: 6px 0;
 }
 
+.hamburger-button .hamburger-line1 {
+    transform: translate(0px, 15px)rotate(45deg);
+}
+
+.hamburger-button .hamburger-line2 {
+    transform: translate(0px, 15px)rotate(45deg);
+}
+
+.hamburger-button .hamburger-line3 {
+    transform: translate(0px, 15px)rotate(-45deg);
+}
+
 /* Mobile Menu */
 
 .mobile-menu {
